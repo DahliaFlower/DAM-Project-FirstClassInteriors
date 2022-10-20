@@ -5,7 +5,7 @@ Team:
 Project Lead: Annette Bigby
 Gather Regquirements: Team contributed questions relevant to their roles
 Code: Kishan MaiSuria
-Designer: Robert Thomas
+Designer: Robert Thomson
 Tester: Philli Park-Tamati
 
 
