@@ -164,6 +164,11 @@ label{
     width: 100%;
 }
 
+.submitbutton:focus{
+    color:#c20a5c;
+    background-color: #45003e;
+}
+
 .btn:hover {
     color: #45003e;
     background-color: #9dfabe;
