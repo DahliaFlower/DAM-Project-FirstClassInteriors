@@ -57,7 +57,31 @@
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
     color:#9dfabe !important ;
     font-size: 18px;
-    
+    max-width:116px;
+  
+}
+
+.navbar li:hover,
+a:hover {
+  /* background-color: #9dfabe; */
+  text-decoration: underline;
+  color:#9dfabe;
+  text-align: center;
+}
+
+.navbar li ul {
+    display: none;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li:hover ul {
+    display: block;
+}
+  
+.navbar li ul li {
+    background-color: #9dfabe;
 }
 
 .navbar-brand{
